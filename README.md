@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Reinhart Previano Koentjoro
-[![[Computerun|Web Development]](https://img.shields.io/badge/Computerun-Web%20Development-%230c1631)](https://computerun.id)
+[![[Computerun 2020|Web Development]](https://img.shields.io/badge/Computerun%202020-Web%20Development-%23239bf5)](https://computerun.id)
 [![[FYP BINUS|Freshmen Leader & Partner]](https://img.shields.io/badge/FYP%20BINUS-Freshmen%20Leader%20%26%20Partner-%235B0D72)](https://student.binus.ac.id/fyp/)
 [![[Kotakode|Beta Tester]](https://img.shields.io/badge/Kotakode-Beta%20Tester-%2347b881)](https://kotakode.com/)
 [![[HIMTI|Web Development]](https://img.shields.io/badge/HIMTI-Web%20Development-%234159a7)](http://himti.or.id/)
