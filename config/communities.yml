@@ -1,0 +1,91 @@
+manifest:
+  version: 1.0
+data:
+  - name: Hard Drop
+    lang: en-US
+    involved: false
+    description:
+      en-US: An extensive, vibrant community about Tetris and similar games
+      id-ID: Sebuah komunitas global untuk Tetris dan permainan sejenis
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://harddrop.com
+  - name: IOTA
+    lang: en-US
+    involved: false
+    description:
+      en-US: An open-source distributed ledger and cryptocurrency designed for the Internet of things (IoT)
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://iota.org
+  - name: Kotakode
+    lang: id-ID
+    involved: true
+    description:
+      en-US: Indonesian developer forum and community
+      id-ID: Forum dan komunitas developer Indonesia
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://kotakode.com
+      - title:
+          en-US: Facebook group
+          id-ID: Grup Facebook
+        url: https://www.facebook.com/groups/3058407320885429
+      - title:
+          en-US: Telegram group
+          id-ID: Grup Telegram
+        url: https://t.me/kotakodebetachat
+      - title:
+          en-US: Instagram account
+          id-ID: Akun Instagram
+        url: https://instagram.com/kotakode
+  - name: LibreOffice
+    lang: en-US
+    involved: false
+    description:
+      en-US: An open-source, community-driven office suite
+      id-ID: Sebuah paket aplikasi perkantoran bersumber terbuka dan bebas 
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://libreoffice.org
+  - name: Petani Kode
+    lang: id-ID
+    involved: false
+    description:
+      en-US: Indonesian developer tutorial website
+      id-ID: Tempat belajar budidaya kode (coding) dengan tutorial terupdate dan mudah dipahami
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://www.petanikode.com
+  - name: ReactOS
+    lang: en-US
+    involved: false
+    description:
+      en-US: An open-source operating system designed for compatibility with Windows NT
+      id-ID: Sebuah sistem operasi bersumber terbuka yang kompatibel dengan sistem Windows NT
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://reactos.org
+  - name: WebThings
+    lang: en-US
+    involved: false
+    description:
+      en-US: An open-source ecosystem for Web/Internet of Things
+      id-ID: Sebuah ekosistem bersumber-terbuka untuk perangkat Web/Internet of Things
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://webthings.io

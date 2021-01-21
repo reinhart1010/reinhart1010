@@ -1,0 +1,80 @@
+manifest:
+  version: 1.0
+data:
+  - name: ADAB (Ayo Dengar Ayo Bicara) to Connect
+    lang: en-US
+    finished: false
+    description:
+      en-US: An open-source application for aiding deaf students at BINUS University
+      id-ID: Sebuah aplikasi yang dibentuk untuk membantu mahasiswa tunarungu di BINUS University
+    links:
+      - title:
+          en-US: GitHub Organization
+          id-ID: Halaman resmi GitHub
+        url: https://github.com/ayo-dengar-ayo-bicara
+  - name: "COMPUTERUN 2020: INSIGHT"
+    lang: id-ID
+    finished: true
+    description:
+      en-US: A set of seminars and competitions held by HIMSISFO and HIMTI Binus University
+      id-ID: Sekumpulan acara seminar dan perlombaan yang diselenggarakan oleh HIMSISFO dan HIMTI Binus University
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://http.himti.or.id
+  - name: First Year Program B2024, BINUS University
+    lang: id-ID
+    finished: false
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://student.binus.ac.id/fyp
+  - name: "HISHOT 2020: IGNITE"
+    lang: id-ID
+    finished: true
+    description:
+      en-US: A set of seminar and workshop events held by HIMTI Binus University
+      id-ID: Sekumpulan acara seminar dan workshop yang diselenggarakan oleh HIMTI Binus University
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://http.himti.or.id
+  - name: "HTTP 2020: LINK"
+    lang: id-ID
+    finished: true
+    description:
+      en-US: A welcoming party for School of Computer Science students at BINUS University
+      id-ID: Sebuah acara pembuka bagi mahasisws School of Computer Science (Sekolah Teknik Informatika), BINUS University
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://http.himti.or.id
+  - name: HOT - USAID - PDC Handwashing Station Map
+    lang: id-ID
+    finished: false
+    description:
+      en-US: A project to gather data about the distribution of handwashing stations across Indonesia
+      id-ID: Sebuah proyek untuk mengumpulkan data distribusi tempat cuci tangan di Indonesia
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://handwashing-station.ushahidi.io
+      - title:
+          en-US: Shoutout from Humanitarian OpenStreetMap (HOT) Indonesia
+        url: https://www.instagram.com/p/CGCc0pxMsiZ/
+  - name: Webcompat.com
+    lang: en-US
+    finished: false
+    description:
+      en-US: Find, analyze, and resolve issues with web compatibility
+      id-ID: Cari, analisa, dan perbaiki masalah situs web dalam berbagai peramban/browser 
+    links:
+      - title:
+          en-US: Main website
+          id-ID: Situs utama
+        url: https://webcompat.com
