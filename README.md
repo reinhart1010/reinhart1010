@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![character-english](https://user-images.githubusercontent.com/17312341/121066137-c28e0600-c7f3-11eb-8692-aced8606f2a9.png)
+![members](https://user-images.githubusercontent.com/17312341/121238579-73fb6d00-c8c2-11eb-9e96-2ff12754d9ae.png)
+
 
 
 [![[Computerun 2020|Web Development]](https://img.shields.io/badge/Computerun%202020-Web%20Development-%23239bf5)](https://computerun.id)
