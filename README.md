@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![members](https://user-images.githubusercontent.com/17312341/121359820-10268200-c95e-11eb-8298-8b71653dc08a.png)
+![members](https://user-images.githubusercontent.com/17312341/121459733-fd4f9400-c9d5-11eb-9612-00a43398e0db.png)
 
 [![[Computerun 2020|Web Development]](https://img.shields.io/badge/Computerun%202020-Web%20Development-%23239bf5)](https://computerun.id)
 [![[FYP BINUS|Freshmen Leader & Partner]](https://img.shields.io/badge/FYP%20BINUS-Freshmen%20Leader%20%26%20Partner-%235B0D72)](https://student.binus.ac.id/fyp/)
