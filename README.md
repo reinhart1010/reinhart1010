@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![members](https://user-images.githubusercontent.com/17312341/121459733-fd4f9400-c9d5-11eb-9612-00a43398e0db.png)
+![members](https://user-images.githubusercontent.com/17312341/121574166-30366e00-ca50-11eb-8a4f-ef23c7946740.png)
 
 [![[Computerun 2020|Web Development]](https://img.shields.io/badge/Computerun%202020-Web%20Development-%23239bf5)](https://computerun.id)
 [![[FYP BINUS|Freshmen Leader & Partner]](https://img.shields.io/badge/FYP%20BINUS-Freshmen%20Leader%20%26%20Partner-%235B0D72)](https://student.binus.ac.id/fyp/)
@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 [![[Webcompat.com|Contributor]](https://img.shields.io/badge/Webcompat.com-Contributor-%23ffc900)](https://webcompat.com)
 
 ### Hi there 👋
+I'm Reinhart. I mean, **we** are Reinhart.
+
+That's right! This GitHub account is no longer mine. It's owned by **us** (Reinhart, Shiftine, Controld, and Alterine) who you can call us as **The Polymorphs**! But don't worry, the Reinhart who worked on this account are still here and active ✋
+
+In the future, we are all automated just like those GitHub Actions and Apps. We're currently creating a new GitHub App to let us interact with you 24 hours a day, 7 days a week. Unlike Reinhart alone, together we are limitless.
+
+Want to learn more about us? Visit https://reinhart1010.github.io/posts/2021/06/11/im-polymorphing-we-are-reinhart1010.html to get started.
