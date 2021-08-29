@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![members](https://user-images.githubusercontent.com/17312341/121574166-30366e00-ca50-11eb-8a4f-ef23c7946740.png)
+![wordpress-cover](https://user-images.githubusercontent.com/17312341/131259416-131737f5-bb2b-42dd-a06b-78c047104d21.png)
 
 [![[Computerun 2020|Web Development]](https://img.shields.io/badge/Computerun%202020-Web%20Development-%23239bf5)](https://computerun.id)
 [![[FYP BINUS|Freshmen Leader & Partner]](https://img.shields.io/badge/FYP%20BINUS-Freshmen%20Leader%20%26%20Partner-%235B0D72)](https://student.binus.ac.id/fyp/)
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I'm Reinhart. I mean, **we** are Reinhart.
 
-That's right! This GitHub account is no longer mine. It's owned by **us** (Reinhart, Shiftine, Controld, and Alterine) who you can call us as **The Polymorphs**! But don't worry, the Reinhart who worked on this account are still here and active ✋
+That's right! This GitHub account is no longer mine. It's owned by **us**. I and Shiftine (a female robot) work in IT for professional needs, and that's why we call ourselves the **SYSTEM** wearing that blue sphere which we called them as **shells**.
 
-In the future, we are all automated just like those GitHub Actions and Apps. We're currently creating a new GitHub App to let us interact with you 24 hours a day, 7 days a week. Unlike Reinhart alone, together we are limitless.
+But some of us, including **pr0xy** (Controld) and **alt1e** (Alterine) are working as part of their passion. They called them as the **rootheads** which are always known for wearing that green hash symbol (`#`, used to indicate a superuser in Linux and UNIX-based operating systems).
 
-Want to learn more about us? Visit https://reinhart1010.github.io/posts/2021/06/11/im-polymorphing-we-are-reinhart1010.html to get started.
+We have a website at https://reinhart1010.id and soon we'll have our own Telegram and Mastodon accounts, so other humans and bots can talk to us directly. We're also working for creating a GitHub App to interact with you, especially through GitHub Discussions.
