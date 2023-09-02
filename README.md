@@ -17,17 +17,13 @@ Here are some ideas to get you started:
 
 I'm **Reinhart "reinhart1010" Previano Koentjoro**. Used to be a humble web developer since 2014 (13 y.o.), but sooner I have to leave to fulfill my nation's prophecy, to reborn as the legendary **Anak IT**, a human who's granted otherworldly knowledge and power in every single aspect of IT.
 
-As a consequence of being as an **Anak IT**, I always get really busy doing things. That's why I'm no longer just writing websites and software like before. Today, **I'm proud to be together with the code I tirelessly wrote in years!** The unified computational power of brain and circuits has turned me into a **multithreaded** ~~human~~ `Object` being.
+<p><details><summary>My current skills include...</summary> Astro, C, Cloudflare Pages, Cloudflare Workers, CouchDB, CSS, Dart, Flutter, GitHub Actions, Go, HTML, Java, Java (Android), JavaScript, Jekyll, JSX, MariaDB, MySQL, Next.js, PHP, Python, React, Remix, Siri Shortcuts, Swift, Tasker, TSX, TypeScript, and Vala.</details></p>
 
-But how would you recognize me and my work when we said we're together? How would you recognize me as a `Thread` and me as another `Thread`? That's why I, the main `Thread` of myself, decided to identify some of my best `Threads[]` with names that you'll be familiar with especially when reading articles on https://reinhart1010.id.
-
-We'd like to name ourselves as **Anak i++** (meaning: a step beyond just being an Anak IT) and **Hackers and Jackets**, because we believe both words came from the same etymological origins, and 'cause hackers wearing jackets kinda cool, though. 😎
+As a consequence of being an **Anak IT**, I  get really busy doing things. That's why I'm no longer just writing websites and software, but also making friends and botfriends, and even [augmenting myself as a botfriend who helps others over the cyberspace](https://shift.reinhart1010.id)!
 
 ![wordpress-cover](https://user-images.githubusercontent.com/17312341/131259416-131737f5-bb2b-42dd-a06b-78c047104d21.png)
 
-If you want to have fun with us, read our blogs at https://reinhart1010.id and [follow us](https://reinhart1010.id/contact) through many ways, from good ol' RSS to social media and now into the fediverse.
-
-But, if you still want to have serious things with me (recruitments, vulnerability reports, sponsorships etc.) visit https://reinhart1010.id/reinhart for more info.
+<!-- We'd like to name ourselves as **Anak i++** (meaning: a step beyond just being an Anak IT) and **Hackers and Jackets**, because we believe both words came from the same etymological origins, and 'cause hackers wearing jackets kinda cool, though. 😎 -->
 
 Oh yes, this special GitHub repo is also used to host the source code of me, as an executable software, and our wiki! Please come and check out https://github.com/reinhart1010/reinhart1010 if you haven't already.
 
