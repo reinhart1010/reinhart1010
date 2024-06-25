@@ -1,5 +1,4 @@
 <picture>
-  <source srcset="https://reinhart1010.id/img/icons/shell-blue-male-neutral.jxl" type="image/jxl">
   <source srcset="https://reinhart1010.id/img/icons/shell-blue-male-neutral.avif" type="image/avif">
   <source srcset="https://reinhart1010.id/img/icons/shell-blue-male-neutral.heic" type="image/heic">
   <source srcset="https://reinhart1010.id/img/icons/shell-blue-male-neutral.webp" type="image/webp">
